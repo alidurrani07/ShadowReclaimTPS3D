@@ -1,0 +1,15 @@
+
+=== Fri May  1 02:59:51 2026
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ai.inference from version 2.5.0 to 2.6.1
+  com.unity.ai.navigation from version 2.0.10 to 2.0.12
+  com.unity.collab-proxy from version 2.11.3 to 2.12.4
+  com.unity.collections from version 2.6.2 to 2.6.5
+  com.unity.inputsystem from version 1.18.0 to 1.19.0
+  com.unity.postprocessing from version 3.5.1 to 3.5.4
+  com.unity.timeline from version 1.8.10 to 1.8.12
+  com.unity.visualscripting from version 1.9.9 to 1.9.11
